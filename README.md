@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redd-stk
 - 👀 I’m interested in pretty much everything about computers and programming
-- 🌱 I’m currently learning react and node together with php
+- 🌱 I’m currently working on my python and django framework and a little bit conversant with javascript and react
 - 📫 How to reach me, you can contact me on my email eddieochieng11@gmail.com
 
 <!---
